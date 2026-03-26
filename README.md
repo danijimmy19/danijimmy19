@@ -6,7 +6,7 @@ Welcome to my GitHub! I am a researcher specializing in the intersection of mach
 
 <table>
   <tr>
-    <td bgcolor="#ffcccc" style="padding:10px;">
+    <td bgcolor="#ffb3b3" style="padding:10px;">
       <strong>
         Actively seeking full-time roles as an Applied Scientist, Research Scientist,
         Data Scientist, Machine Learning Engineer, or Software Engineer starting in 2026.
