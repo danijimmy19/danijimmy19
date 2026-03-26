@@ -4,6 +4,16 @@
 
 Welcome to my GitHub! I am a researcher specializing in the intersection of machine learning, security, privacy, and cryptography. My work focuses on developing novel AI methods and rigorously validating them on real-world datasets to build more secure and trustworthy systems.
 
+<table>
+  <tr>
+    <td bgcolor="#ffcccc" style="padding:10px;">
+      <strong>
+        Actively seeking full-time roles as an Applied Scientist, Research Scientist,
+        Data Scientist, Machine Learning Engineer, or Software Engineer starting in 2026.
+      </strong>
+    </td>
+  </tr>
+</table>
 
 #### 🔭 What I’m working on
 - Deep learning and LLM-based frameworks for large-scale password analysis and honeyword detection.
