@@ -28,7 +28,7 @@ Welcome to my GitHub! I am a researcher specializing in the intersection of mach
 - Computer vision, including 3D point-cloud data for agriculture and remote sensing.
 - PyTorch, TensorFlow, MLflow, LangChain, Hugging Face, LlamaIndex, vLLM, and modern ML tooling.
 
-​​#### 🛠️ Languages & Tools
+​​### 🛠️ Languages & Tools
 - Languages: Python, C, C++, Java, SQL, Bash
 - AI/ML: PyTorch, TensorFlow, scikit-learn, JAX, Optuna, NNI, LIME, DeepEval, LangChain, CausalML, LlamaIndex, DeepSpeed, Hugging Face Transformers, MLflow, ONNX, vLLM
 - Cloud & Data: AWS SageMaker, Databricks, Spark, Airflow, Docker, Git, CUDA/cuDNN, vector databases​
